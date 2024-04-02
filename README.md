@@ -1,8 +1,34 @@
-
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Amazing MS Paint Banner ------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center">
-  ![Vumacc](https://github.com/Vumacc/Vumacc/assets/149380921/79ad1b1d-291a-49e2-b1c3-44e5e928a7c7)
+  <img width="500" alt="Vumacc" src="https://github.com/Vumacc/Vumacc/assets/149380921/0c446492-a906-4815-bc54-8b43ee85a354" alt="Badly drawn text saying "Vumacc">
+  <br><br>
 
-  <a href="https://twitter.com/Vumacc" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- The Link Stuff ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+  
+  <a href="discordapp.com/users/1079089221974904853">
+    <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Link to a discord user names @vumacc7"/>
   </a>
+  <a href="https://twitter.com/Vumacc">
+    <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Link to a twitter user named @Vumacc"/>
+  </a>
+  <a href="mailto:vumacc.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Link to a discord user names @vumacc7"/>
+  </a>
+
+  <br><br>
+  
+</div>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About Me Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div>
+
+  <h3>I'm not sure what to put here so it's gonna be blank until I figure it out 👍</h3>
+  
 </div>
