@@ -9,7 +9,7 @@
 <!--- -- The Link Stuff ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
   
-  <a href="discordapp.com/users/1079089221974904853">
+  <a href="https://discordapp.com/users/1079089221974904853">
     <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Link to a discord user names @vumacc7"/>
   </a>
   <a href="https://twitter.com/Vumacc">
