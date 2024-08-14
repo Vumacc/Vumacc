@@ -23,5 +23,5 @@ If you want to contact me for some reason you can send me an <a href="mailto:ays
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="75" height="75"/> </a>
-  <a href="/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Paint.svg" alt="mspaint" width="75" height="75"/> </a>
+  <a href="/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_Paint.svg" alt="mspaint" width="75" height="75"/> </a>
 </div>
