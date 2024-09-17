@@ -22,6 +22,7 @@ If you want to contact me for some reason you can send me an <a href="mailto:ays
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> </a>
 <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/> </a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="I use Neovim btw :3" width="75" height="75"/> </a>
-  <a href="/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_Paint.svg" alt="mspaint" width="75" height="75"/> </a>
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="75" height="75"/> </a>
+<a href="https://neovide.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/88021264?v=4" alt="Neovide" width="75" height="75"/> </a>
+<a href="/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Microsoft_Paint.svg" alt="Microsoft Paint" width="75" height="75"/> </a>
 </div>
