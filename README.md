@@ -2,7 +2,7 @@
 <h3 align="center">I make websites :3</h3>
   
 <p align="center">
-Helloo, I'm a frontend web developer and programmer with a ✨<i>PASSION</i>✨ for making overengineered code.
+Helloo, I'm a frontend web developer and programmer with a ✨<i>PASSION</i>✨ for making idiotic code.
 <br>
 <br>
 If you want to contact me for some reason you can send me an <a href="mailto:ays7.vumacc@gmail.com">email</a> or DM me on <a href="https://www.discord.com/users/1247240273218768898">Discord</a>.
@@ -22,6 +22,7 @@ If you want to contact me for some reason you can send me an <a href="mailto:ays
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="75" height="75"/> </a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="75" height="75"/> </a>
 <a href="https://neovide.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/88021264?v=4" alt="Neovide" width="75" height="75"/> </a>
 <a href="https://doc.qt.io/qtcreator/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="QT Creator" width="75" height="75"/> </a>
