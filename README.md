@@ -1,8 +1,8 @@
 <h1 align="center"> >>> <i>VUMACC</i> <<< </h1>
-<h3 align="center">I make websites :3</h3>
+<h3 align="center">I make stuff :3</h3>
   
 <p align="center">
-Helloo, I'm a frontend web developer and programmer with a ✨<i>PASSION</i>✨ for making idiotic code.
+Helloo, I'm a frontend web developer and programmer with a ✨<i>PASSION</i>✨ for making nonsensical code.
 <br>
 <br>
 If you want to contact me for some reason you can send me an <a href="mailto:ays7.vumacc@gmail.com">email</a> or DM me on <a href="https://www.discord.com/users/1247240273218768898">Discord</a>.
